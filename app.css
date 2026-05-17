@@ -35,3 +35,11 @@ body {
     text-transform: capitalize;
     letter-spacing: 2px;
 }
+
+.nav-btn {
+    font-size: 1.5rem;
+    background: transparent;
+    border: none;
+    color: #222;
+    cursor: pointer;
+}
