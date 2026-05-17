@@ -43,3 +43,7 @@ body {
     color: #222;
     cursor: pointer;
 }
+
+.nav-icon {
+    display: none;
+}
