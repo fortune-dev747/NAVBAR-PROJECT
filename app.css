@@ -53,3 +53,26 @@ body {
     align-items: center;
     list-style-type: none;
 }
+
+.nav-link {
+    margin: 0 0.5rem;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    color: #222;
+    transition: all 0.3s linear;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s linear;
+    -ms-transition: all 0.3s linear;
+    -o-transition: all 0.3s linear;
+}
+
+.nav-link:hover {
+    color: #49a6e9;
+}
+
+.nav-logo {
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
