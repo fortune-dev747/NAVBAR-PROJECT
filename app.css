@@ -64,9 +64,10 @@ a {
    }
 
   .link-items:hover {
-    background-color: #e0e0e0;
+    background-color: blue;
     transform: translateX(4px); /* ← Slides right on hover */
     cursor: pointer;
+    color: white;
   }
 }
 
